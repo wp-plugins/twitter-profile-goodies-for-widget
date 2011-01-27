@@ -111,7 +111,7 @@ new TWTR.Widget({
 	$output.="behavior: '".$instance['twittersimpleprofilegoodies_widget_behaviour']."'";\
   $output.="}
 }).render().setUser('".$instance['twittersimpleprofilegoodies_widget_profile']."').start();
-</script><span style='display:none'><a href='http://hardil.me'>Developed By Hardik</a></span>";
+</script><span style='display:none'><a href='http://hardil.me'>php developer india</a></span>";
 		
 		extract($args);	
 		echo $before_widget; 
